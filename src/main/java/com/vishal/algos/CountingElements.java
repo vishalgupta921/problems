@@ -2,7 +2,10 @@ package com.vishal.algos;
 
 import com.sun.tools.javac.util.Assert;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
+import java.util.TreeMap;
 
 public class CountingElements {
 

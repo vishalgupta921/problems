@@ -4,6 +4,11 @@ import com.sun.tools.javac.util.Assert;
 
 import java.util.Arrays;
 
+/**
+ * Single Number
+ * Given a non-empty array of integers, every element appears twice except for one. Find that single one.
+ *
+ */
 public class SingleNumber {
 
     public static void main(String[] args) {
